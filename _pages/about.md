@@ -17,11 +17,14 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 ## About me
-
+Welcome to my webpage! I'm Anna Liu (刘安娜), but you can call me Ania, the Polish familiar form of my name. I am half-Polish half-Chinese, and I am currently pursuing a PhD in Gravitational-Wave Physics at the Chinese University of Hong Kong. Below, you can find more details about my research and education journey.
 
 #### Education: 
-- The Chinese University of Hong Kong
-- KU Leuven
-- University of Oxford
+- PhD Physics, The Chinese University of Hong Kong, 2021-present
+- MSc Astronomy & Astrophysics, KU Leuven, Belgium, 2021
+- BA (Hons) Physics, University of Oxford, UK, 2018
 
-You can disable any of these elements by editing `profile` #property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+#### Research Interest 
+- Gravitational waves from binary black holes: data analysis and phenomenology
+- Gravitational-wave lensing
+- Probing General Relativity with black-hole ringdown
