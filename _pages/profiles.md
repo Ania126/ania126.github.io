@@ -1,8 +1,8 @@
 ---
-layout: profiles
+layout: Education
 permalink: /people/
-title: people
-description: members of the lab or group
+title: Education
+description:
 nav: true
 nav_order: 7
 
