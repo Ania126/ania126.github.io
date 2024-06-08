@@ -17,7 +17,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 ## About me
-Welcome to my webpage! I'm Anna Liu (刘安娜), but you can call me Ania, the Polish familiar form of my name. I am half-Polish half-Chinese, and I am currently pursuing a PhD in Gravitational-Wave Physics at the Chinese University of Hong Kong (CUHK). I am a member of the [Gravitational-Wave group at CUHK](https://gw.phy.cuhk.edu.hk/), and a member of the LIGO Scientific Collaboration. Below, you can find more details about my research and education journey.
+Welcome to my webpage! I'm Anna Liu (刘安娜), but you can call me Ania, the Polish familiar form of my name. I am half-Polish half-Chinese, and I am currently pursuing a PhD in Gravitational-Wave Physics at the Chinese University of Hong Kong (CUHK). I am a member of the [Gravitational-Wave Group at CUHK](https://gw.phy.cuhk.edu.hk/), and a member of the LIGO Scientific Collaboration. Below, you can find more details about my research and education journey.
 
 #### Education: 
 - PhD Physics, The Chinese University of Hong Kong, 2021-present
