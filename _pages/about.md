@@ -19,13 +19,10 @@ social: true # includes social icons at the bottom of the page
 ## About me [<img path="assets/img/orcid.jpg" alt="orcid" style="width:20px;height:20px;">](https://orcid.org/0000-0003-1081-8722)
 
 
-### Education: 
+#### Education: 
 - The Chinese University of Hong Kong
 - KU Leuven
 - University of Oxford
-
-Write your biography here. Tell the world about yourself.
-picture `prof_pic.jpg` and put it in the `img/` folder.
 
 #Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` #property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 
