@@ -17,6 +17,8 @@ news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
+## About me [<img path="assets/img/orcid.jpg" alt="orcid" style="width:20px;height:20px;">](https://orcid.org/0000-0003-1081-8722)
+
 
 ### Education: 
 - The Chinese University of Hong Kong
