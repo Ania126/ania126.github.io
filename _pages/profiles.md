@@ -1,6 +1,6 @@
 ---
 layout: Education
-permalink: /people/
+permalink: /edu/
 title: Education
 description:
 nav: true
