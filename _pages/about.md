@@ -28,3 +28,7 @@ Welcome to my webpage! I'm Anna Liu (刘安娜), but you can call me Ania, the P
 - Gravitational waves from binary black holes: data analysis and phenomenology
 - Gravitational-wave lensing
 - Probing General Relativity with black-hole ringdown
+
+#### <i class="fa-solid fa-earth-americas" style="color: #badb9e;"></i> Languages: 
+Polish (native), Mandarin Chinese (native), English (fluent), German (conversational), Dutch (conversational), Russian (conversational)
+
