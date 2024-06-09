@@ -1,7 +1,7 @@
 ---
 layout: default
 permalink: /talks/
-title: Presentations and talks 
+title: Talks 
 nav: true
 nav_order: 1
 pagination:
