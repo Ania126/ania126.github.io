@@ -1,6 +1,6 @@
 ---
 layout: page
-title: project 1
+title: Exploring the hidden Universe with GW millilensing
 description: with background image
 img: assets/img/12.jpg
 importance: 1
@@ -8,11 +8,11 @@ category: work
 related_publications: true
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
-
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+This project introduces a novel phenomenological approach to model gravitational-wave millilensing in a model-independent manner. 
+By parameterizing lensed gravitational-wave signals with lensing observables, we capture the imprints these observables leave on the signals. 
+This method allows us to model arbitrary lensing configurations, as long as there is a single lens along the line of sight, without imposing model-specific restrictions. 
+This results in a more physically realistic description. 
+The project involves transdimensional sampling, implemented using the Bayesian inference library Bilby.
 
     ---
     layout: page
