@@ -1,10 +1,10 @@
-github_users:
-  - Ania126
+# github_users:
+#   - Ania126
 
-github_repos:
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+# github_repos:
+#   - twbs/bootstrap
+#   - jekyll/jekyll
+#   - jquery/jquery
+#   - FortAwesome/Font-Awesome
+#   - jpswalsh/academicons
+#   - mathjax/MathJax
