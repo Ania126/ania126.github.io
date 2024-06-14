@@ -2,7 +2,7 @@
 layout: page
 title: Exploring the hidden Universe with GW millilensing
 description: with background image
-img: assets/img/12.jpg
+img: assets/img/waveform_shape.png
 importance: 1
 category: work
 related_publications: true
@@ -23,7 +23,7 @@ The project involves transdimensional sampling, implemented using the Bayesian i
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/waveform_shape.png.jpg" title="Millielensed signals overlapping on top of each other result in a single GW with frequency-dependent beating patterns" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
