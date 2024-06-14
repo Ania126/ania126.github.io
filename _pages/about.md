@@ -1,6 +1,6 @@
 ---
 layout: about
-title: 
+title: About me
 permalink: /
 subtitle: PhD Student in Gravitational-Wave Physics 
 
