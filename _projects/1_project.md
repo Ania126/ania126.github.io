@@ -4,7 +4,7 @@ title: Exploring the hidden Universe with GW millilensing
 description: with background image
 img: assets/img/waveform_shape.png
 importance: 1
-category: work
+category: GW phenomenology
 related_publications: true
 ---
 
