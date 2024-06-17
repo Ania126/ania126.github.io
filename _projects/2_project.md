@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Can we discern millilensed GWs from precessing signals?
+title: Can we distinguish millilensed GWs from precessing GW signals?
 description: 
 img: assets/img/3.jpg
 importance: 2
@@ -8,11 +8,11 @@ category: GW phenomenology
 giscus_comments: true
 ---
 
-One of the characteristics of millilensed waveform shape are the frequency-dependent beating patterns.
-Similarly, signals emitted by precessing BBHs can also posses similar shapes.
-In this project, we explore the ability of distinguishing between those two types of signals emitted by binary black holes, in the context of LIGO-Virgo-KAGRA detectors. 
+One of the key characteristics of millilensed gravitational wave (GW) waveform shapes is the frequency-dependent beating pattern formed by the overlapping of individual millilensed signals. 
+Interestingly, a similar beating pattern in the GW waveform can also occur from precessing binary black hole systems.
 
-
+The apparent similarity between the waveforms of the two different signal origins can pose challenges in correctly identifying the underlying physical effects. 
+In this project, we to explore our ability to distinguish between these two types of binary black hole signals, in the context of the current LIGO-Virgo-KAGRA detector network, by (a) computing  SNRs obtained with different templates, (b) performing a parameter estimation (PE) study of lensed and processing GWs.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -25,50 +25,3 @@ In this project, we explore the ability of distinguishing between those two type
         {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
-<div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    This image can also have a caption. It's like magic.
-</div>
-
-You can also put regular text between your rows of images.
-Say you wanted to write a little bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, _bled_ for your project, and then... you reveal its glory in the next row of images.
-
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
-</div>
-
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
-
-{% raw %}
-
-```html
-<div class="row justify-content-sm-center">
-  <div class="col-sm-8 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-  <div class="col-sm-4 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-</div>
-```
-
-{% endraw %}
