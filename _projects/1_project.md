@@ -15,8 +15,7 @@ This results in a more physically realistic description.
 The project involves transdimensional sampling, implemented using the Bayesian inference library Bilby.
 
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
+<! <div class="row">   <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/strong_milli.pdf
 " title="strong milli setup" class="img-fluid rounded z-depth-1" %}
     </div>
@@ -24,6 +23,7 @@ The project involves transdimensional sampling, implemented using the Bayesian i
 <div class="caption">
     An example configuration of millilenses within a galaxy producing multiple millilensed GW signals (figure not to scale)
 </div>
+--> 
 
 
 
