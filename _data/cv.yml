@@ -4,9 +4,10 @@
     - name: Full Name
       value: Anna Liu
     - name: Date of Birth
-      value: 6th December 1996
+      value: 6 December 1996
     - name: Languages
-      value: Polish, Madarin Chinese, English 
+      value: Polish (native), Mandarin Chinese (native), English (fluent), 
+      German (conversational), Russian (conversational)
 
 - title: Education
   type: time_table
@@ -15,18 +16,19 @@
       institution: The Chinese University of Hong Kong, Hong Kong
       year: 2021-present
       description:
+        - Gravitational-wave physics 
         - Supervised by Prof. Otto A. Hannuksela and Prof. Tjonnie G. F. Li 
 
     - title: MSc Astronomy & Astrophysics
       institution: KU Leuven, Belgium
-      year: 2021
+      year: 2019-2021
       description:
         - Thesis title "A phenomenological study of gravitational-wave signatures in higher-derivative gravity" 
         - Supervised by Prof. Thomas Hertog 
 
     - title: BA (Hons) Physics 
       institution: University of Oxford, UK
-      year: 2018 
+      year: 2015-2018 
       
 
 - title: Experience
@@ -36,15 +38,22 @@
       institution: 
       year: 
       description:
-        - Description 1.
-        - Description 2.
+    
         
-- title: Open Source Projects
+- title: Research projects
   type: time_table
   contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+    - title: Gravitational wave millilensing 
+      year: 2023
+      description: 
+    - title: Millilensed or precessing? 
+      year: 2024
+      description: Studying the ability to distinguish 
+      millilensed GWs from GW signals emitted by precessing sources 
+      using matched SNR computation and Bayesian inference, in the context of LIGO-Virgo-KAGRA detections
+    - title: Systematic biases away from GR due to GW millilensing 
+      year: 2024 
+      description: 
 
 - title: Awards
   type: time_table
@@ -62,14 +71,10 @@
 - title: Academic Interests
   type: nested_list
   contents:
-    - title: Topic 1.
+    - title: 
       items:
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
-      items:
-        - Description 1.
-        - Description 2.
+        - 
+ 
 
 - title: Other Interests
   type: list
