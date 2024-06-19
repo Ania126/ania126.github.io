@@ -1,13 +1,13 @@
 ---
-layout: default
+layout: page
 permalink: /edu/
 title: Education
-description:
+description: My education journey
 nav: true
 nav_order: 4
 ---
 
-### My education journey
+### My international education journey
 
 Growing up in Polish and Chinese environments, I am a native speaker of both languages. 
 I attended primary school in China and in Poland on a two-month rotation and successfully completed both programmes. 
