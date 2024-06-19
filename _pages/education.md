@@ -1,5 +1,5 @@
 ---
-layout: Education
+layout: profiles
 permalink: /edu/
 title: Education
 description:
