@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /edu/
 title: Education
+permalink: /edu/
 description: My education journey
 nav: true
 nav_order: 4
